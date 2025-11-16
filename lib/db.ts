@@ -17,4 +17,4 @@ export function getDb() {
     sql = neon(dbUrl)
   }
   return sql
-}
+} 
